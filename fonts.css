@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Galindo&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Pangolin&display=swap");
+/*dont ask me why i added so mayn fonts, i have no idea either*/
+@font-face {
+	font-family: "A-OTF Shin Go Pro";
+	src: url(/media/fonts/AOTFShinGoProRegular.woff2);
+	font-weight: 500;
+	font-display: swap;
+}
+@font-face {
+	font-family: "A-OTF Shin Go Pro";
+	src: url(/media/fonts/AOTFShinGoProMedium.woff2);
+	font-weight: 600;
+	font-display: swap;
+}
+@font-face {
+	font-family: "A-OTF Shin Go Pro";
+	src: url(/media/fonts/AOTFShinGoProBold.woff2);
+	font-weight: 700;
+	font-display: swap;
+}
+@font-face {
+	font-family: "A-OTF Shin Go Pro";
+	src: url(/media/fonts/AOTFShinGoProHeavy.woff2);
+	font-weight: 900;
+	font-display: swap;
+}
+@font-face {
+	font-family: newyearnewday;
+	src: url(/media/fonts/newyearnewday.normal.woff2);
+	font-weight: 900;
+}
+
+@font-face {
+	font-family: fotrodin;
+	src: url(/media/fonts/FOT-RodinNTLG\ Pro\ EB.woff2);
+	font-weight: 800;
+	font-display: swap;
+}
+@font-face {
+	font-family: fotrodin;
+	src: url(/media/fonts/FOT-RodinNTLG\ Pro\ DB.woff2);
+	font-weight: 500;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: splatoon2;
+	src: url(/media/fonts/splatoon2.woff2);
+	font-weight: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: hyliaserif;
+	src: url(/media/fonts/hyliaserif.woff2);
+	font-weight: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: popjoy;
+	src: url(/media/fonts/FOT-PopJoyStd-B.woff2);
+	font-weight: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: pophappiness;
+	src: url(/media/fonts/FOT-PopHappinessStd-EB.woff2);
+	font-weight: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: typo;
+	src: url(/media/fonts/Typo_Round_Regular_Demo.otf);
+	font-weight: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: typo;
+	src: url(/media/fonts/Typo_Round_Bold_Demo.otf);
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: clock;
+	src: url(/media/fonts/alarmclock.woff2);
+	font-weight: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: wii;
+	src: url(/media/fonts/contb.woff2);
+	font-weight: bold;
+	font-display: swap;
+}
